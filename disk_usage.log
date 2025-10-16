@@ -1,39 +1,120 @@
-Omar's Disk Performance Report - Wed Sep 24 08:00:18 PM EDT 2025:
+Disk report - Wed Oct 15 01:08:38 PM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
--------------------------------------eol
-Omar's Disk Performance Report - Wed Sep 24 08:01:58 PM EDT 2025:
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 01:20:02 PM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:01:58 PM EDT 2025
-Omar's Disk Performance Report - Wed Sep 24 08:02:27 PM EDT 2025:
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 01:25:01 PM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:02:27 PM EDT 2025
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 01:30:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 01:35:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 01:40:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   11G  7.9G  58% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 09:25:02 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        20G   11G  7.8G  59% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 09:30:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   12G  7.2G  62% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 09:35:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   12G  7.2G  62% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
+Disk report - Wed Oct 15 09:40:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.3M  334M   1% /run
+/dev/sda2        20G   12G  7.2G  62% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  7.4M  1.7G   1% /tmp
+tmpfs           336M  5.4M  331M   2% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/melanyc/CDROM
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+------------------------
